@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ylcQuizzes/precache-manifest.618b630a17be1b5c1afd9974aed58eed.js"
+  "/ylcQuizzes/precache-manifest.eb197a1ff3d84757109d4100f3df7b4f.js"
 );
 
 workbox.clientsClaim();

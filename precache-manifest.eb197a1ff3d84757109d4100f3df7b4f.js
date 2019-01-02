@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/ylcQuizzes/static/js/runtime~main.ec8c45d9.js"
   },
   {
-    "revision": "5569ef4697013cb0ad78",
-    "url": "/ylcQuizzes/static/js/main.5569ef46.chunk.js"
+    "revision": "1257f4aa3aa70a11cd09",
+    "url": "/ylcQuizzes/static/js/main.1257f4aa.chunk.js"
   },
   {
     "revision": "06020d20649825352d69",
     "url": "/ylcQuizzes/static/js/1.06020d20.chunk.js"
   },
   {
-    "revision": "5569ef4697013cb0ad78",
+    "revision": "1257f4aa3aa70a11cd09",
     "url": "/ylcQuizzes/static/css/main.c87d3b52.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/ylcQuizzes/static/css/1.0a5936d0.chunk.css"
   },
   {
-    "revision": "ff7ed63137b79c924f207f565bb1ed1c",
+    "revision": "1033a71c02cc2eb1fb49e224b16240c6",
     "url": "/ylcQuizzes/index.html"
   }
 ];

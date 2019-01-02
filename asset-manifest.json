@@ -1,7 +1,7 @@
 {
   "main.css": "/ylcQuizzes/static/css/main.c87d3b52.chunk.css",
-  "main.js": "/ylcQuizzes/static/js/main.5569ef46.chunk.js",
-  "main.js.map": "/ylcQuizzes/static/js/main.5569ef46.chunk.js.map",
+  "main.js": "/ylcQuizzes/static/js/main.1257f4aa.chunk.js",
+  "main.js.map": "/ylcQuizzes/static/js/main.1257f4aa.chunk.js.map",
   "static/css/1.0a5936d0.chunk.css": "/ylcQuizzes/static/css/1.0a5936d0.chunk.css",
   "static/js/1.06020d20.chunk.js": "/ylcQuizzes/static/js/1.06020d20.chunk.js",
   "static/js/1.06020d20.chunk.js.map": "/ylcQuizzes/static/js/1.06020d20.chunk.js.map",
@@ -12,6 +12,6 @@
   "static/media/baseline-menu-24px.svg": "/ylcQuizzes/static/media/baseline-menu-24px.c275e518.svg",
   "static/css/1.0a5936d0.chunk.css.map": "/ylcQuizzes/static/css/1.0a5936d0.chunk.css.map",
   "index.html": "/ylcQuizzes/index.html",
-  "precache-manifest.618b630a17be1b5c1afd9974aed58eed.js": "/ylcQuizzes/precache-manifest.618b630a17be1b5c1afd9974aed58eed.js",
+  "precache-manifest.eb197a1ff3d84757109d4100f3df7b4f.js": "/ylcQuizzes/precache-manifest.eb197a1ff3d84757109d4100f3df7b4f.js",
   "service-worker.js": "/ylcQuizzes/service-worker.js"
 }
