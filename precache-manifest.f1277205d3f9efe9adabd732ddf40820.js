@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/ylcQuizzes/static/media/small_milk.40a9174f.png"
   },
   {
-    "revision": "f2a255d587609342fc3a",
+    "revision": "ef01a360f56c68d87f58",
     "url": "/ylcQuizzes/static/css/main.d35c1354.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/ylcQuizzes/static/js/runtime~main.ec8c45d9.js"
   },
   {
-    "revision": "f2a255d587609342fc3a",
-    "url": "/ylcQuizzes/static/js/main.f2a255d5.chunk.js"
+    "revision": "ef01a360f56c68d87f58",
+    "url": "/ylcQuizzes/static/js/main.ef01a360.chunk.js"
   },
   {
     "revision": "746269efdf553df1dc0397930a8da18a",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/ylcQuizzes/static/css/1.220653a9.chunk.css"
   },
   {
-    "revision": "4ca026966aa23162bae56be51b5bca98",
+    "revision": "71d96c1c2940a09a4766810a8280dc87",
     "url": "/ylcQuizzes/index.html"
   }
 ];
